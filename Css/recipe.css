@@ -1,0 +1,78 @@
+.history{
+    background-color:red;
+    border:yellow dotted 10px;
+    color:blue;
+    text-decoration:20px;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: darkblue;
+    text-decoration-thickness: 20px;
+    border-radius:5%;
+}
+.historytext{
+    content: 0px;
+    border: 1px solid black;
+    background-color: lightblue;
+    text-overflow: visible;
+}
+.image{
+    background:white 20px;
+}
+.ingridients{
+    background-color:yellow;
+    border:red double 20px;
+    -webkit-text-stroke-width: .5px;
+    -webkit-text-stroke-color: blue;
+    text-decoration-thickness: 20px;
+    border-radius:5%;
+}
+body {
+    background-color: rgb(235,81,96);
+  }
+.description{
+    background-color:blue;
+    border:rgb(173,216,230) dashed 10px;
+    color:red;
+    text-decoration:20px;
+    -webkit-text-stroke-width: .25px;
+    -webkit-text-stroke-color: black;
+    text-decoration-thickness: 20px;
+    border-radius:5%;
+}
+.biggesttitle{
+    text-align: center;
+    color:blue;
+}
+.steps{
+    background-color:rgb(173, 216, 230);
+    border:blue dashed 10px;
+    -webkit-text-stroke-color: darkblue;
+    border-radius: 5%;
+}
+.macondo{
+    font-family: "Macondo Swash Caps", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .product{
+    background-color:red;
+    border: yellow double 20px;
+    color:blue;
+    border-radius:5%;
+  }
+  #flag{
+    position:relative;
+    left:225px;
+    border:rgb(173, 216, 230) double 20px;
+  }
+  #video{
+    position:relative;
+    left:30px;
+    border:rgb(173, 216, 230) double 20px;
+  }
+  #sources{
+    background-color: lightsalmon;
+    text-overflow: visible;
+    color:black;
+    border:lightcoral dotted 20px;
+    border-radius:10%;
+  }
